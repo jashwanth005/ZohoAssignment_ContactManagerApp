@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZohoContactApp</string>
+    <string name="cancel" />
+    <string name="delete" />
+    <string name="delete_dialog_msg" />
+    <string name="delete_contact_failed">Contact In</string>
+    <string name="delete_contact_successful">Contact Gone</string>
+
+
+</resources>
+
